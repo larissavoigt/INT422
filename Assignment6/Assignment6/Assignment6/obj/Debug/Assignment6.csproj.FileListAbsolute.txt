@@ -1,0 +1,136 @@
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\App_Data\Chinook.mdf
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\App_Data\Chinook_log.ldf
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\Assignment6.dll.config
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\Assignment6.dll
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\Assignment6.pdb
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\Antlr3.Runtime.dll
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\AutoMapper.dll
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\EntityFramework.dll
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\EntityFramework.SqlServer.dll
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\Newtonsoft.Json.dll
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\System.Web.Helpers.dll
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\System.Web.Mvc.dll
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\System.Web.Optimization.dll
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\System.Web.Razor.dll
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\System.Web.WebPages.dll
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\System.Web.WebPages.Razor.dll
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\WebGrease.dll
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\Antlr3.Runtime.pdb
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\AutoMapper.xml
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\EntityFramework.xml
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\EntityFramework.SqlServer.xml
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\Newtonsoft.Json.xml
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\System.Web.Helpers.xml
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\System.Web.Mvc.xml
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\System.Web.Optimization.xml
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\System.Web.Razor.xml
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\System.Web.WebPages.xml
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\bin\System.Web.WebPages.Razor.xml
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\obj\Debug\Assignment6.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\obj\Debug\Assignment6.dll
+C:\Users\Oleg\Desktop\Semester 5\INT422\Labs\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\App_Data\Chinook.mdf
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\App_Data\Chinook_log.ldf
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\Assignment6.dll.config
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\Assignment6.dll
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\Assignment6.pdb
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\Antlr3.Runtime.dll
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\AutoMapper.dll
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\EntityFramework.dll
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\EntityFramework.SqlServer.dll
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\Newtonsoft.Json.dll
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.Helpers.dll
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.Mvc.dll
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.Optimization.dll
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.Razor.dll
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.WebPages.Deployment.dll
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.WebPages.dll
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.WebPages.Razor.dll
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\WebGrease.dll
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\Antlr3.Runtime.pdb
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\AutoMapper.xml
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\EntityFramework.xml
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\EntityFramework.SqlServer.xml
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\Newtonsoft.Json.xml
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.Helpers.xml
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.Mvc.xml
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.Optimization.xml
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.Razor.xml
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.WebPages.xml
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.WebPages.Deployment.xml
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.WebPages.Razor.xml
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\obj\Debug\Assignment6.csprojResolveAssemblyReference.cache
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\obj\Debug\Assignment6.dll
+C:\Users\larissa\Downloads\Assignment6-v2\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\App_Data\Chinook.mdf
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\App_Data\Chinook_log.ldf
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\Assignment6.dll.config
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\Assignment6.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\Assignment6.pdb
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\Antlr3.Runtime.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\AutoMapper.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\EntityFramework.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\EntityFramework.SqlServer.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\Newtonsoft.Json.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.Helpers.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.Mvc.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.Optimization.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.Razor.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.WebPages.Deployment.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.WebPages.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.WebPages.Razor.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\WebGrease.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\Antlr3.Runtime.pdb
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\AutoMapper.xml
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\EntityFramework.xml
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\EntityFramework.SqlServer.xml
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\Newtonsoft.Json.xml
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.Helpers.xml
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.Mvc.xml
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.Optimization.xml
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.Razor.xml
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.WebPages.xml
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.WebPages.Deployment.xml
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\bin\System.Web.WebPages.Razor.xml
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\obj\Debug\Assignment6.csprojResolveAssemblyReference.cache
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\obj\Debug\Assignment6.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6-v2\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\App_Data\Chinook.mdf
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\App_Data\Chinook_log.ldf
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\Assignment6.dll.config
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\Assignment6.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\Assignment6.pdb
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\Antlr3.Runtime.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\AutoMapper.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\EntityFramework.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\EntityFramework.SqlServer.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\Newtonsoft.Json.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\System.Web.Helpers.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\System.Web.Mvc.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\System.Web.Optimization.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\System.Web.Razor.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\System.Web.WebPages.Deployment.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\System.Web.WebPages.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\System.Web.WebPages.Razor.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\WebGrease.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\Antlr3.Runtime.pdb
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\AutoMapper.xml
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\EntityFramework.xml
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\EntityFramework.SqlServer.xml
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\Newtonsoft.Json.xml
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\System.Web.Helpers.xml
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\System.Web.Mvc.xml
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\System.Web.Optimization.xml
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\System.Web.Razor.xml
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\System.Web.WebPages.xml
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\System.Web.WebPages.Deployment.xml
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\bin\System.Web.WebPages.Razor.xml
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.csprojResolveAssemblyReference.cache
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.dll
+C:\Users\larissa\Documents\Visual Studio 2015\Projects\INT422\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
